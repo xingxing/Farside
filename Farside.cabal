@@ -1,0 +1,20 @@
+name: Farside
+version: 0.1.0.10
+cabal-version: >= 1.6
+build-type: Simple
+description:
+
+
+extra-source-files:
+  black.jpg
+  white.jpg
+  red.jpg
+  blue.jpg
+  blk_horse_head.jpg
+  svgOut.xml
+  showPic.html
+  refresh.html
+
+library
+  build-depends:
+    Craft3e >= 0.1
